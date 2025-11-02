@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+Flask-Session
+Flask-SQLAlchemy
+transformers
+torch
+requests
+wikipedia-api
